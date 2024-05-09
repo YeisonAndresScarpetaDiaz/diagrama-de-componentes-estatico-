@@ -1,10 +1,11 @@
 # diagrama-de-componentes-estatico-
 # Sistema de Gestión de Biblioteca
 
-@startuml
+```@startuml
 
 
 package "Sistema de Gestión de Biblioteca" {
+    
     [Cliente]
     
     [Interfaz]
